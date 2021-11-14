@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom';
 class App extends Component {
   render() {
     return (
-      <div></div>
+      <div>In Online Connection Success.</div>
     )
   }
 }
